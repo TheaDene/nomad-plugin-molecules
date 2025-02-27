@@ -14,7 +14,7 @@ classifiers = [
     "License :: OSI Approved :: Apache Software License",
 ]
 name = 'nomad-plugin-molecules'
-version = "0.1.3"
+version = "0.1.4"
 description = "Plugin repository containing tools for molecule information extraction."
 readme = "README.md"
 authors = [{ name = "The NOMAD Authors" }]
